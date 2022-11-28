@@ -18,7 +18,7 @@ The following bash scripts are to be run on the command line.
 First, check out the repository:
 ```bash
 #bash
-git clone git@github.wdf.sap.corp:FSDM-MAPPINGTOOL/mt-ds-sandbox.git
+git clone git@github.com:guilhermesfc/ontology-matching-absolute-orientation.git
 ```
 
 ### Use anaconda to manage your python environment:
